@@ -18,7 +18,8 @@ def animate_text(text, delay=0.03):
 def show_banner():
     banner = """
 ╔══════════════════════════════════════╗
-║          IMEI TRACKER v2.0           ║
+║          IMEI TRACKER v2.0 
+        HACKER -----> G.Rahul
 ║      Created for Ethical purpose     ║
 ╚══════════════════════════════════════╝
     """
